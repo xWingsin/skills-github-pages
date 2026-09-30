@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog!
+title: xWingsin's personal blog
 ---
 
 <h1 id="hi-im-pj">👋 Hi, I'm PJ</h1>
