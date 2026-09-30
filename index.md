@@ -1,3 +1,6 @@
+---
+title: Welcome to my blog!
+---
 
 <h1 id="hi-im-pj">👋 Hi, I'm PJ</h1>
 
