@@ -2,7 +2,7 @@
 title: Welcome to my blog!
 ---
 
-# 👋 Hi, I'm PJ
+<h1 id="hi-im-pj">👋 Hi, I'm PJ</h1>
 
 <div align="center">
 
@@ -79,4 +79,3 @@ Global Marketplace 🌎
 ### 🚀 Always Learning. Always Building.
 
 </div>
-
