@@ -7,6 +7,7 @@ title: Welcome to my blog!
 <div align="center">
 
 ### 🌏 China × Korea Business Explorer
+
 ### 🚀 Cross-border E-commerce | Supply Chain | AI Productivity
 
 </div>
@@ -16,7 +17,7 @@ title: Welcome to my blog!
 ## 🎯 About Me
 
 ```yaml
-Name: Peng
+Name: Ken.PJ
 Location: South Korea 🇰🇷
 Focus:
   - Cross-border E-commerce
