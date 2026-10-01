@@ -6,9 +6,9 @@ title: Welcome to my blog!
 
 <div align="center">
 
-### 🌏 China × Korea Business Explorer
+🌏 China × Korea Business Explorer
 
-### 🚀 Cross-border E-commerce | Supply Chain | AI Productivity
+🚀 Cross-border E-commerce | Supply Chain | AI Productivity
 
 </div>
 
