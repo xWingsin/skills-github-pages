@@ -1,6 +1,6 @@
 ---
 title: "Gentle with an edge"
-date: 2026-09-D30
+date: 2026-09-30
 ---
 
 
